@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"emma_combat_base","characterIndex":0,"characterName":"emma_marche_base","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"emma_base","traits":[],"initialLevel":1,"maxLevel":99,"name":"Emma","nickname":"","note":"","profile":"Petite femme sympa"},
+{"id":2,"battlerName":"oscar_combat_base","characterIndex":0,"characterName":"oscar_marche_base","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"oscar_base","traits":[],"initialLevel":1,"maxLevel":99,"name":"Oscar","nickname":"","note":"","profile":""}
+]
